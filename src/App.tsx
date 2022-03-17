@@ -16,7 +16,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          H&S Tecnologia
         </a>
       </header>
     </div>
